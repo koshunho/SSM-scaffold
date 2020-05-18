@@ -2,6 +2,7 @@
 /.idea/
 /out
 *.properties
+ssmbuild.iml
 # Compiled class file
 *.class
 
